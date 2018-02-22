@@ -1,3 +1,3 @@
 # Psychic-carnival
 
-#This is my discord bot written in python.
+#A python discord bot that spouts prequelmemes.
