@@ -35,4 +35,4 @@ async def on_message(message):
                 i=i+1
     elif "good bot" in message.content:
         await client.send_message(message.channel, "I think YOU'RE a good bot!")
-client.run("NDE1NjcwMzk5MjY3NzY2Mjgz.DW969g.jUv7IJ5m1rH2c2ZUzmNTFKPxmvk")
+client.run("BOT_TOKEN_HERE")
